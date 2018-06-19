@@ -8,6 +8,7 @@ topics:
 contentType: 
     - index
     - how-to
+useCase: build-an-app
 ---
 
 # Application Settings: Native

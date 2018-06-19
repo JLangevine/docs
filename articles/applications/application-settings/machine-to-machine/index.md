@@ -7,6 +7,7 @@ topics:
 contentType: 
     - index
     - how-to
+useCase: build-an-app
 ---
 
 # Application Settings: Machine to Machine Application

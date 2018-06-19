@@ -5,6 +5,7 @@ topics:
   - client-credentials
   - api-authorization
 contentType: how-to
+useCase: secure-api
 ---
 
 # Set up a Client Credentials Grant using the Dashboard

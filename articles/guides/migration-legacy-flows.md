@@ -9,6 +9,10 @@ topics:
     - auth0js
     - tokens
     - user-profiles
+contentType:
+    - how-to
+    - concept
+useCase: migrate
 ---
 # Migrating from Legacy Authentication Flows
 

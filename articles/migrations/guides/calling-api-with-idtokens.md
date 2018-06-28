@@ -7,6 +7,12 @@ topics:
   - management-api
   - id-tokens
   - tokens
+contentType:
+  - concept
+  - how-to
+  - reference
+useCase:
+  - manage-accounts
 ---
 
 # Migration Guide: Management API and ID Tokens

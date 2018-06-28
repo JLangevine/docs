@@ -4,6 +4,10 @@ topics:
     - pre-deployment
     - pre-deployments-tests
     - tests
+contentType:
+  - reference
+useCase:
+  - support
 ---
 
 # How to Run the Pre-Deployment Test

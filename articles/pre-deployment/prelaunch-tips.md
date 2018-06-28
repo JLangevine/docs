@@ -5,6 +5,10 @@ topics:
     - pre-deployment
     - pre-launch
     - tips-and-tricks
+contentType:
+  - reference
+useCase:
+  - support
 ---
 
 # Pre-Launch Tips 

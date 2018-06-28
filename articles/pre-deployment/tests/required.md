@@ -5,6 +5,10 @@ topics:
     - pre-deployments-tests
     - tests
     - requirements
+contentType:
+  - reference
+useCase:
+  - support
 ---
 
 # Pre-Deployment Tests: Required Fixes

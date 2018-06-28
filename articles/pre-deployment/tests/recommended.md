@@ -5,6 +5,10 @@ topics:
     - pre-deployments-tests
     - tests
     - recommendations
+contentType:
+  - reference
+useCase:
+  - support
 ---
 
 # Pre-Deployment Tests: Recommended Fixes

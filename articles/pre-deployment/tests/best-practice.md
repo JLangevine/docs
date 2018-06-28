@@ -5,6 +5,10 @@ topics:
     - pre-deployments-tests
     - tests
     - best-practices
+contentType:
+  - reference
+useCase:
+  - support
 ---
 
 # Pre-Deployment Tests: Best Practices
